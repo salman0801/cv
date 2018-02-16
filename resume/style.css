@@ -1,0 +1,29 @@
+.circle{
+	margin: 10px 10px;
+}
+.name{
+	margin: -260px 520px;
+}
+.objective{
+	margin: 250px 10px;
+}
+.skills{
+	margin: -230px 10px;
+}
+.experience{
+	margin: -350px 550px;
+}
+.education{
+
+margin: 340px 550px;
+}
+.volunteer_experience{
+
+	margin: -340px 550px;
+}
+.account{
+	margin: 400px 150px;
+}
+h6{
+	font-size: 20px;
+}
